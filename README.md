@@ -29,3 +29,6 @@
 <p>
   Turn on soft-delete and purge protection if you want to guard against force deletion of the secret.
 </p>
+
+## References
+https://learn.microsoft.com/en-us/azure/key-vault/general/best-practices
