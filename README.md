@@ -1,4 +1,8 @@
 # Azure Key Vault Best Practices
+<p>
+  This article describes the best practices, following Microsoft documentation, of Azure Key Vault.
+</p>
+
 
 ## Managed identities for Azure resources
 <p>
